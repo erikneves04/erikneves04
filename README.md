@@ -9,8 +9,8 @@ Destaco que atualmente estou focado no aprimoramento dos meus conhecimento em in
 - Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
 - Selecionado para ingresso no segundo período letivo(08/2022) de Ciência da Computação na UFMG.
 
-#### Certificados online:
--
+<!-- #### Certificados online: calma que ta saindo já já--> 
+
 
 <div align="center">
   <a href="https://github.com/erikneves04">
