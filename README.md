@@ -1,9 +1,11 @@
 ###  Olá, pessoas! Eu sou Erik Neves 👋
 
 #### Sobre :
+<div align="justify"> 
 Sou um "xóven" de 18 anos que ama tecnologia e a forma como tudo se encaixa nesse mundo virtual. 
 No momento(04/2022), sou classificado como um desenvolvedor Backend júnior, trabalhando com o desenvolvimento de API's ASP.NET.
 Destaco que atualmente estou focado no aprimoramento dos meus conhecimento em inglês e no meu desenvolvimento enquanto programador, voltado ao .NET Framework.
+</div> 
 
 #### Formação:
 - Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
@@ -21,10 +23,10 @@ Destaco que atualmente estou focado no aprimoramento dos meus conhecimento em in
   </a>
 </div>
 
-
-
+<div align="justify"> 
 Obs.: Pelos dados aparenta que eu seja um desenvolvedor Frontend, porém, eles remetem as demandas escolares e não realmente desenvolvimento para o mercado.
-
+</div> 
+  
 <div style="display: inline_block"><br> 
   <img align="center" alt="Erik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erik-Dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
