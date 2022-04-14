@@ -2,7 +2,7 @@
 
 #### Sobre :
 <div align="justify"> 
-Sou um "xóven" de 18 anos que ama tecnologia e a forma como tudo se encaixa nesse mundo virtual. No momento(04/2022), sou classificado como um desenvolvedor Backend júnior, trabalhando com o desenvolvimento de API's ASP.NET. Destaco que atualmente estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, voltado ao .NET Framework.
+Tenho 18 anos e amo tecnologia e a forma como tudo se encaixa nesse mundo virtual. Atualmente, sou classificado como um desenvolvedor Backend júnior, trabalhando com o desenvolvimento de API's ASP.NET. Destaco estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, voltado ao .NET Framework.
 </div> 
 
 #### Formação:
