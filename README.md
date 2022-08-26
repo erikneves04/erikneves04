@@ -7,7 +7,7 @@ Tenho 18 anos e amo tecnologia e a forma como tudo se encaixa nesse mundo virtua
 
 #### Formação:
 - Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
-- Selecionado para ingresso no segundo período letivo(08/2022) de Ciência da Computação na UFMG.
+- Cursando o primeiro período de Ciência da Computação no DCC - UFMG.
 
 <!-- #### Certificados online: calma que ta saindo já já--> 
 
