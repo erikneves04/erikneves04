@@ -2,7 +2,7 @@
 
 #### Sobre :
 <div align="justify"> 
-Tenho 18 anos e amo tecnologia e a forma como tudo se encaixa nesse mundo virtual. Atualmente, sou classificado como um desenvolvedor Backend júnior, trabalhando com o desenvolvimento de API's ASP.NET. Destaco que estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, voltado, inicialmente, ao .NET Framework, mas aberto a novas tecnologias.
+Tenho 19 anos e amo tecnologia e a forma como tudo se encaixa nesse mundo virtual. Atualmente, sou classificado como um desenvolvedor Backend júnior, trabalhando com o desenvolvimento de API's ASP.NET. Destaco que estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, voltado, inicialmente, ao .NET Framework, mas aberto a novas tecnologias.
 </div> 
 
 #### Formação:
