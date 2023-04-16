@@ -2,7 +2,7 @@
 
 #### Sobre :
 <div align="justify"> 
-Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, mas sempre aberto a aprender.
+Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, mas sempre disposto a novos aprendizados que me possibilitem propor e implementar diferentes formas para a resolução de problemas.
 </div> 
 
 #### Formação:
