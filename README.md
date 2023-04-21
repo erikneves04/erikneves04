@@ -20,8 +20,8 @@ Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" width="52" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 </div>
   
 <div align="center"> 
