@@ -6,11 +6,8 @@ Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
 </div> 
 
 #### Formação:
-- Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
-- Cursando Ciência da Computação no DCC - UFMG.
-
-<!-- #### Certificados online: calma que ta saindo já já--> 
-
+- Ciência da Computação, DCC - UFMG(2022 - 2026).
+- Técnico em Desenvolvimento de Sistemas, Coltec - UFMG(2019 - 2021).
 
 <div align="center">
   <a href="https://github.com/erikneves04">
