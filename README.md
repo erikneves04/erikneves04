@@ -9,6 +9,8 @@ Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
 - Ciência da Computação, DCC - UFMG(2022 - 2026).
 - Técnico em Desenvolvimento de Sistemas, Coltec - UFMG(2019 - 2021).
 
+Clique <a href="https://drive.google.com/file/d/1O7tBUnBerbfSiglggnN6Fi5uqW2waLX_/view?usp=share_link"> aqui </a> para acessar meu currículo completo.
+
 <div align="center">
   <a href="https://github.com/erikneves04">
     <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api?username=erikneves04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
