@@ -27,7 +27,7 @@ Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" width="52" alt="cpp logo"  />
 </div>
   
-<div> 
+<div align="center"> 
     <a href = "mailto:erikrrn04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/erik-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
