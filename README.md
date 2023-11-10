@@ -9,7 +9,7 @@ Tenho 19 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
 - Ciência da Computação, DCC - UFMG(2022 - 2027).
 - Técnico em Desenvolvimento de Sistemas, Coltec - UFMG(2019 - 2021).
 
-Clique <a href="https://drive.google.com/file/d/1Gp9Qh9v_nxu_VdIrjDkBzy9HjhpOQHlx/view?usp=sharing"> aqui </a> para acessar meu currículo completo.
+Clique <a href="https://drive.google.com/file/d/1Gp9Qh9v_nxu_VdIrjDkBzy9HjhpOQHlx/view?usp=sharing">aqui</a> para acessar meu currículo completo.
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
