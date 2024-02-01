@@ -12,6 +12,13 @@ Tenho 20 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou
 Clique <a href="https://drive.google.com/file/d/1Gp9Qh9v_nxu_VdIrjDkBzy9HjhpOQHlx/view?usp=sharing">aqui</a> para acessar meu currículo completo.
   
 <div align="center">
+  <a href="https://github.com/erikneves04">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=erikneves04&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikneves04&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" width="52" alt="cpp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
