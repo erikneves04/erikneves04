@@ -13,8 +13,8 @@ Clique <a href="https://drive.google.com/file/d/1Gp9Qh9v_nxu_VdIrjDkBzy9HjhpOQHl
   
 <div align="center">
   <a href="https://github.com/erikneves04">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=erikneves04&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
-    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikneves04&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=erikneves04&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+    <img height="160em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikneves04&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
