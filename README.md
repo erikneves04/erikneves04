@@ -3,7 +3,7 @@
 #### Sobre :
 <div align="justify"> 
 Com experiência anterior no desenvolvimento de jogos na Unity Engine e no desenvolvimento de APIs ASP.NET, atualmente estou voltado para a segurança digital, participando em uma Iniciação Científica (IC) centrada na detecção de ataques DDoS e zero-day. 
-
+<br /><br />
 Meu foco atual está em aprofundar meu conhecimento e experiência nesta área específica, buscando contribuir para o progresso da pesquisa.
 </div> 
 
