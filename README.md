@@ -2,7 +2,9 @@
 
 #### Sobre :
 <div align="justify"> 
-Tenho 20 anos trabalho com o desenvolvimento de API's ASP.NET. Destaco que estou focado no aprimoramento dos meus conhecimentos em inglês e no meu desenvolvimento enquanto programador, mas sempre disposto a novos aprendizados.
+Com experiência anterior no desenvolvimento de jogos na Unity Engine e no desenvolvimento de APIs ASP.NET, atualmente estou voltado para a segurança digital, participando em uma Iniciação Científica (IC) centrada na detecção de ataques DDoS e zero-day. 
+
+Meu foco atual está em aprofundar meu conhecimento e experiência nesta área específica, buscando contribuir para o progresso da pesquisa.
 </div> 
 
 #### Formação:
